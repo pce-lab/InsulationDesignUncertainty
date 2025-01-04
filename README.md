@@ -22,3 +22,7 @@ deterministic and Bayesian inverse problems governed by partial differential equ
 It builds on `FEniCS` for the discretization of the PDE
 and on `PETSc` for scalable and efficient linear
 algebra operations and solvers.
+
+## Acknowledgement 
+The authors gratefully acknowledge the financial support
+received from the U.S. National Science Foundation (NSF) CAREER Award CMMI-2143662. 
