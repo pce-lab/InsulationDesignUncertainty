@@ -1,4 +1,7 @@
-# PDE-constrained optimization for insulation components of buildings under High-dimensional uncertainty
+# InsulationDesignUncertainty
+
+A predictive model of PDE-constrained optimization for insulation components with multi-objective optimization and chance constraints
+
 
 ## Summary
 This repository contains a predictive model of PDE-constrained optimization with application to a L-shaped insulation component. The model uses scalable algorithms under high-dimensional uncertainty which are independent of the parameter dimension. There are two methods used for predicting the optimal design under uncertainty: Multi-objective Optimization and Optimization with Chance constraints. 
